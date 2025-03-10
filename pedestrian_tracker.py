@@ -1,6 +1,4 @@
 """
-Pedestrian Flow Tracker
-=======================
 Uses computer vision and object detection to analyze and predict pedestrian movement
 patterns in urban environments.
 """
