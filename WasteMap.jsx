@@ -1,7 +1,4 @@
-```jsx
-/**
- * Waste Heatmap Component (WasteMap.jsx)
- * --------------------------------------
+
  * A React-based map visualization that displays waste generation hotspots
  * based on bin sensor data. Supports smart waste management systems with
  * interactive filters, real-time updates, and analytics.
