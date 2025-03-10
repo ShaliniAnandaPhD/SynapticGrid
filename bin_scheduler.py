@@ -1,6 +1,4 @@
 """
-Automated Bin Collection Scheduler
-==================================
 Look, I'm not saying the old manual routes were BAD, but this is definitely better.
 Uses A* and Dijkstra's algorithms to generate efficient pickup schedules that save
 fuel, time, and my sanity during route planning meetings.
