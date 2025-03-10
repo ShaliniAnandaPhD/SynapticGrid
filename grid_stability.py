@@ -1,6 +1,4 @@
 """
-Grid Stability Monitor
----------------------
 Real-time monitoring system to analyze power fluctuations and detect
 potential failures in decentralized energy grids. Uses statistical
 methods and anomaly detection to identify unstable grid conditions.
