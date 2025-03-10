@@ -1,6 +1,4 @@
 /**
- * Energy Usage Dashboard
- * ---------------------
  * React-based visualization dashboard for monitoring and analyzing
  * energy demand, supply, and optimization strategies in a smart grid.
  * 
