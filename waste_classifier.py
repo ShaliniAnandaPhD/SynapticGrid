@@ -1,6 +1,4 @@
 """
-AI Waste Classification API
----------------------------
 A computer vision-based system for classifying waste types from image data
 to support smart waste management systems.
 """
