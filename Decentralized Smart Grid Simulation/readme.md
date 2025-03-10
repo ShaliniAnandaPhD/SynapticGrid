@@ -1,3 +1,6 @@
+
+# SynapticGrid: Decentralized Smart Grid Simulation
+
 A Python-React application that simulates a decentralized smart grid with AI agents using reinforcement learning to optimize energy trading and distribution.
 
 ## Overview
@@ -25,7 +28,7 @@ The application consists of:
 ## Project Structure
 
 ```
-smart_grid/
+SynapticGrid/
 ├── models/
 │   ├── __init__.py
 │   ├── node.py          # Node classes (SolarHome, WindFarm, etc.)
@@ -48,8 +51,8 @@ package.json             # Node.js dependencies
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-grid-simulation.git
-cd smart-grid-simulation
+git clone https://github.com/ShaliniAnandaPhD/SynapticGrid.git
+cd SynapticGrid/Decentralized\ Smart\ Grid\ Simulation
 ```
 
 2. Create and activate a virtual environment:
@@ -129,6 +132,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author
+
+Created by Dr. Shalini Ananda as part of the SynapticGrid project.
 
 ## Acknowledgments
 
