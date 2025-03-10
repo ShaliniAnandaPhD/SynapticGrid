@@ -151,7 +151,8 @@ SynapticGrid is built as a **modular system** that integrates sensors, machine l
 
 - **Smarter Energy Grids**: [Watch Demo](https://www.linkedin.com/posts/shalinianandaphd_reinforcementlearning-smartgrid-energyoptimization-activity-7304317176369270784-6uMf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATH3cgBLB3ZhNKdiK83PyAA1KPddyaaY2I)  
 - **Traffic Optimization**: [Watch Demo](https://www.linkedin.com/posts/shalinianandaphd_smartcitytech-reinforcementlearning-trafficoptimization-activity-7303989634995232768-z-Db?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATH3cgBLB3ZhNKdiK83PyAA1KPddyaaY2I)  
-- **Smart Waste Management (Mac Users Only)**: [Watch Demo](https://www.linkedin.com/posts/shalinianandaphd_reinforcementlearning-smartcities-wastemanagement-activity-7304222099697455104-3ew-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATH3cgBLB3ZhNKdiK83PyAA1KPddyaaY2I)  
+- **Smart Waste Management (Mac Users Only)**: [Watch Demo](https://www.linkedin.com/posts/shalinianandaphd_reinforcementlearning-smartcities-wastemanagement-activity-7304222099697455104-3ew-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATH3cgBLB3ZhNKdiK83PyAA1KPddyaaY2I)
+- **Decentralized Smart Grid** https://www.linkedin.com/posts/shalinianandaphd_decentralization-smartgrid-ai-activity-7305001874422661120-WBPN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATH3cgBLB3ZhNKdiK83PyAA1KPddyaaY2I
 
 ---
 
