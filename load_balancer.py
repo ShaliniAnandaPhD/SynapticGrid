@@ -1,6 +1,4 @@
 """
-Real-Time Power Load Balancer
------------------------------
 A reinforcement learning-based system for dynamically redistributing 
 energy loads across different nodes in a smart grid to optimize 
 efficiency, cost, and stability.
