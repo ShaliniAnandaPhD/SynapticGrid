@@ -1,6 +1,4 @@
 """
-Waste Sorting Robot Simulation
-==============================
 A reinforcement learning model to simulate and improve robotic waste sorting.
 This simulation helps us train our sorting algorithms before deploying them
 to the actual robots, saving time and preventing expensive mistakes.
