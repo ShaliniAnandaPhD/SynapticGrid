@@ -1,6 +1,4 @@
 """
-Traffic Signal AI
-================
 Adaptive traffic light controller using reinforcement learning to minimize congestion.
 This module simulates, trains, and deploys AI controllers for traffic intersections.
 """
