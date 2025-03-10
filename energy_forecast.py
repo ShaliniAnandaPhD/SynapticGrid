@@ -1,6 +1,4 @@
 """
-Energy Demand Forecasting Model
--------------------------------
 Uses time-series forecasting models to predict power consumption patterns.
 Integrates with weather data to improve prediction accuracy.
 """
