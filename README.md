@@ -1,3 +1,9 @@
+Open Source Attribution Notice
+
+Using open source software without proper attribution or in violation of license terms is not only ethically problematic but may also constitute a legal violation. I believe in supporting the open source community that makes projects like this possible.
+
+If you're using code or tools from this repository or GitHub, please ensure you maintain all attribution notices and comply with all applicable licenses.
+
 # SynapticGrid: AI for Smarter, More Sustainable Cities  
 
 **SynapticGrid** is an evolving system designed to make cities **more efficient, sustainable, and livable** using AI and data-driven insights. This project focuses on **smart energy grids, waste management, and traffic optimization**—helping cities **reduce waste, ease congestion, and manage power more effectively**.  
